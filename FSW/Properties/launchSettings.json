@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FSW": {
+      "commandName": "Project",
+      "commandLineArgs": "-p C:\\tmp"
+    }
+  }
+}
